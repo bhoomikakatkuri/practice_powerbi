@@ -1,7 +1,7 @@
 # Super Store Power BI Dashboard
 
 ## Overview
-This repository contains a Power BI dashboard and a PDF report based on the sample **Super Store** dataset. The dashboard provides visual insights into sales trends, category performance, and shipping times, offering a comprehensive view of the store's operations.
+This repository contains a Power BI dashboard and a PDF report based on the **sample Super Store** dataset. The dashboard provides visual insights into sales trends, category performance, and shipping times, offering a comprehensive view of the store's operations.
 
 ## Contents
 - **sample_superstore.pbix** – Power BI dashboard file with interactive visualizations.
@@ -10,7 +10,7 @@ This repository contains a Power BI dashboard and a PDF report based on the samp
 ## Key Features
 - **Sales Trends** – Analyze sales performance over time.
 - **Category Performance** – Insights into sales and profitability by product category.
-- **Shipping Analysis** – Evaluation of shipping times and their impact on customer satisfaction.
+- **Shipping Analysis** – Insights about shipping times.
 
 ## Requirements
 To view and interact with the Power BI dashboard, you will need:
